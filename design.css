@@ -4,14 +4,47 @@ table{
 }
 thead{
     background-color: red;
+    font-size: 30px;
 }
 tbody{
     text-align: center;
 }
-#j{
-width: 100px;
-height: ;
-}
-#I{
+img{
+    height: 100px;
     width: 100px;
+}
+#i{
+    background-color: gold;
+}
+#a{
+    background-color: silver;
+}
+#j{
+    background-color: rgba(200, 116, 116, 0.749);
+}
+#l{
+    background-color: rgb(255, 110, 110);
+}
+#b{
+    background-color: rgba(255, 64, 64, 0.883) ;
+}
+#i:hover{
+    background-color: RED;
+    transition: 1s;
+}
+#a:hover{
+    background-color:   red;
+    transition: 1s;
+}
+#j:hover{
+    background-color: red;
+    transition: 1s;
+}
+#l:hover{
+    background-color: red;
+    transition: 1s;
+}
+#b:hover{
+    background-color: red;
+    transition: 1s;
 }
